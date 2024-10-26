@@ -1,0 +1,61 @@
+
+
+/*
+body nav style
+*/
+body{
+    background-color: whitesmoke;
+}
+
+.navlinks{
+    background-color: rgba(56, 56, 56, 0.644);
+}
+nav{
+    overflow: hidden;
+    text-align: center;
+}
+
+nav li{
+    height: 15px;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    padding-left: 30px;
+}
+
+ul li a{
+    justify-content: center;
+    text-decoration: none;
+    font-size: 2em;
+    color: rgba(0, 255, 0, 0.863);
+}
+
+
+/*
+main content
+*/
+.links{
+    border: solid 5px rgba(0, 255, 0, 0.863) ;
+    background-color:   rgba(56, 56, 56, 0.644) ;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    width: 700px;
+}
+
+span{
+    color:rgba(0, 255, 0, 0.863);
+}
+
+/*
+Footer
+*/
+
+#footer{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+

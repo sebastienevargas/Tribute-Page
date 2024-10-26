@@ -1,0 +1,56 @@
+
+/*
+header design nav
+*/
+
+body{
+    background-color: whitesmoke;
+}
+
+.navlinks{
+    background-color: rgba(56, 56, 56, 0.644);
+}
+nav{
+    overflow: hidden;
+    text-align: center;
+}
+
+nav li{
+    height: 15px;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    padding-left: 30px;
+}
+
+ul li a{
+    justify-content: center;
+    text-decoration: none;
+    font-size: 2em;
+    color: rgba(0, 255, 0, 0.863);
+}
+
+/*
+Main Content 
+*/
+
+#timeline{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    color: white;
+    background-color: rgba(57, 57, 57, 0.804);
+    width: 700px;
+    line-height: 40px;
+
+}
+
+/*
+Footer style
+*/
+
+#footer{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
